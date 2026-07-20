@@ -1,14 +1,18 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Park;Bok Hwa;;;
-FN:박복화 (Aimi Park)
-ORG:Yoonhang Trade (윤항무역)
+
+N:박복화(Aimi Park);;;
+FN:박복화(Aimi Park)
+
+ORG:윤항무역
 TITLE:Korea-China Trade Consultant
+
 TEL;TYPE=CELL:+821049601314
 TEL;TYPE=WORK:+8613013784616
+
 EMAIL;TYPE=HOME:pfh327@126.com
 EMAIL;TYPE=WORK:tradeyh@126.com
+
 URL:https://www.trade-yh.com
-ADR;TYPE=WORK:;;;서울특별시 성동구;;;대한민국
-NOTE:WeChat ID: Aimi_19139 / KakaoTalk ID: trade-yh
+
 END:VCARD
